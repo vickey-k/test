@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "✅ Running tests from Tekton Pipeline! vickey swaroop"
+echo "✅ Running tests from Tekton Pipeline! vickey swar"
